@@ -1,0 +1,9 @@
+from django.contrib import admin
+from mysite.users.models import Users, Hackmes
+
+class UsersAdmin(admin.ModelAdmin):
+    list_display = ('name', 'psw', 'score', 'update_time')
+    search_fields = ('name', )
+
+admin.site.register(Users, UsersAdmin)
+admin.site.register(Hackmes)

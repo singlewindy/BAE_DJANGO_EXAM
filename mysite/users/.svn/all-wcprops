@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/670197/appid67n7lddwb1/0/mysite/users
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/670530/appid67n7lddwb1/0/mysite/users/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/670197/appid67n7lddwb1/0/mysite/users/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/670197/appid67n7lddwb1/0/mysite/users/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/670197/appid67n7lddwb1/0/mysite/users/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/670530/appid67n7lddwb1/0/mysite/users/models.py
+END
